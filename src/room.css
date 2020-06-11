@@ -1,0 +1,29 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+.room {
+  height: 100vh;
+}
+.lit {
+  background-color: white;
+  color: black;
+}
+.lit {
+  background-color: black;
+  color: white;
+}
+.btnL {
+  width: 75px;
+  height: 40px;
+  padding: 5px;
+  margin-right: 5px;
+  margin-bottom: 10px;
+}
+.btnT {
+  font-size: 2em;
+  width: 40px;
+  height: 40px;
+  margin-top: 10px;
+  margin-right: 5px;
+}
